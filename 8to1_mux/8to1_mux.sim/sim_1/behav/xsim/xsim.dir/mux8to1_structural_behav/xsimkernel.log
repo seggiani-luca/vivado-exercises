@@ -1,0 +1,7 @@
+Running: xsim.dir/mux8to1_structural_behav/xsimk -simmode gui -wdb mux8to1_structural_behav.wdb -simrunnum 0 -socket 34129
+Design successfully loaded
+Design Loading Memory Usage: 178400 KB (Peak: 178520 KB)
+Design Loading CPU Usage: 1570 ms
+Simulation completed
+Simulation Memory Usage: 260136 KB (Peak: 317668 KB)
+Simulation CPU Usage: 1570 ms

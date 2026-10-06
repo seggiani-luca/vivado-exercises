@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Oct  7 00:14:26 2026
+# Process ID         : 50335
+# Current directory  : /home/luca/Desktop/vivado/4to2_prio_encoder/4to2_prio_encoder.runs/impl_1
+# Command line       : vivado -log prioenc4to2_behavioral_casewhen.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source prioenc4to2_behavioral_casewhen.tcl -notrace
+# Log file           : /home/luca/Desktop/vivado/4to2_prio_encoder/4to2_prio_encoder.runs/impl_1/prioenc4to2_behavioral_casewhen.vdi
+# Journal file       : /home/luca/Desktop/vivado/4to2_prio_encoder/4to2_prio_encoder.runs/impl_1/vivado.jou
+# Running On         : lucarch3
+# Platform           : unknown
+# Operating System   : unknown
+# Processor Detail   : Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+# CPU Frequency      : 1084.103 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 7894 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 20779 MB
+# Available Virtual  : 11845 MB
+#-----------------------------------------------------------
+source prioenc4to2_behavioral_casewhen.tcl -notrace

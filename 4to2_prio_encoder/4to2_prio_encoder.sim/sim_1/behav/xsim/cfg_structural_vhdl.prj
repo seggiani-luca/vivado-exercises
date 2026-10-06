@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../4to2_prio_encoder.srcs/sources_1/new/prioenc4to2_behavioral_casewhen.vhd" \
+"../../../../4to2_prio_encoder.srcs/sim_1/new/tb_prioenc4to2.vhd" \
+
+# Do not sort compile order
+nosort

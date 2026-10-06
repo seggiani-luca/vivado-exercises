@@ -1,0 +1,22 @@
+                    |  #INs #OUTs #BELs MWF
+8TO1_MUX            |
+--------------------+-----------------------------
+dataflow_whenelse   |  11   1     3     137.68 MHz
+dataflow_withselect |  11   1     3     137.68 MHz
+behavioral_ifelse   |  11   1     3     137.68 MHz
+beahvioral_casewhen |  11   1     3     137.68 MHz
+structural          |  11   1     3     136.14 MHz
+                    |
+3TO8_DECODER        |
+--------------------+-----------------------------
+dataflow_whenelse   |   4   8     8     132.27 MHz
+dataflow_withselect |   4   8     8     132.27 MHz
+behavioral_ifelse   |   4   8     8     132.27 MHz
+beahvioral_casewhen |   4   8     8     132.27 MHz
+                    |
+3TO2_PRIO_ENCODER   |
+--------------------+-----------------------------
+dataflow_whenelse   |   4   3     3     144.09 MHz
+dataflow_withselect |   4   3     3     144.09 MHz
+behavioral_ifelse   |   4   3     3     144.09 MHz
+beahvioral_casewhen |   4   3     3     144.09 MHz

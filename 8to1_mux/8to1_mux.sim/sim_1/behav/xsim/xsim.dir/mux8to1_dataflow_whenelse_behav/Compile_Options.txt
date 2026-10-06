@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "mux8to1_dataflow_whenelse_behav" "xil_defaultlib.mux8to1_dataflow_whenelse" -log "elaborate.log" 

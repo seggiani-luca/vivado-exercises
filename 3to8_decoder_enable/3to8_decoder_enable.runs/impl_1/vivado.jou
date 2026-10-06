@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Oct  6 23:59:57 2026
+# Process ID         : 40732
+# Current directory  : /home/luca/Desktop/vivado/3to8_decoder_enable/3to8_decoder_enable.runs/impl_1
+# Command line       : vivado -log decoder3to8_behavioral_casewhen.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder3to8_behavioral_casewhen.tcl -notrace
+# Log file           : /home/luca/Desktop/vivado/3to8_decoder_enable/3to8_decoder_enable.runs/impl_1/decoder3to8_behavioral_casewhen.vdi
+# Journal file       : /home/luca/Desktop/vivado/3to8_decoder_enable/3to8_decoder_enable.runs/impl_1/vivado.jou
+# Running On         : lucarch3
+# Platform           : unknown
+# Operating System   : unknown
+# Processor Detail   : Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+# CPU Frequency      : 809.474 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 7894 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 20779 MB
+# Available Virtual  : 12278 MB
+#-----------------------------------------------------------
+source decoder3to8_behavioral_casewhen.tcl -notrace
