@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/luca/Desktop/Projs/vivado/hamming_distance/hamming_distance.srcs/sources_1/new/hamming_distance_structural.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'diff_comp'
+INFO: [VRFC 10-3107] analyzing entity 'half_adder'
+INFO: [VRFC 10-3107] analyzing entity 'full_adder'
+INFO: [VRFC 10-3107] analyzing entity 'add2_2'
+INFO: [VRFC 10-3107] analyzing entity 'add4_3'
+INFO: [VRFC 10-3107] analyzing entity 'add6_4'
+INFO: [VRFC 10-3107] analyzing entity 'hamming_distance_structural'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/luca/Desktop/Projs/vivado/hamming_distance/hamming_distance.srcs/sim_1/new/tb_hamming_distance.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_hamming_distance'

@@ -1,0 +1,4 @@
+v 4
+file . "hamming_distance.vhd" "15f330712f613688481a2b6ac0206e3e97eefec5" "20261013192339.836":
+  entity hamming_distance at 1( 0) + 0 on 13;
+  architecture dataflow of hamming_distance at 13( 288) + 0 on 14;

@@ -1,0 +1,8 @@
+v 4
+file . "gray_code_inc.vhd" "52b2ec72cbb3753143f012db0ac9a7157641a32d" "20261015154420.409":
+  entity bin_to_gray at 5( 157) + 0 on 17;
+  architecture dataflow of bin_to_gray at 18( 418) + 0 on 18;
+  entity gray_to_bin at 27( 687) + 0 on 19;
+  architecture dataflow of gray_to_bin at 40( 948) + 0 on 20;
+  entity gray_code_inc at 53( 1318) + 0 on 21;
+  architecture dataflow of gray_code_inc at 67( 1609) + 0 on 22;

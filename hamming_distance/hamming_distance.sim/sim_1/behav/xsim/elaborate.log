@@ -1,0 +1,22 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /mnt/usb/Tools/Xilinx/Vivado/2024.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot cfg_structural_behav xil_defaultlib.cfg_structural -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture dataflow of entity xil_defaultlib.diff_comp [diff_comp_default]
+Compiling architecture dataflow of entity xil_defaultlib.half_adder [half_adder_default]
+Compiling architecture dataflow of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture structural of entity xil_defaultlib.add2_2 [add2_2_default]
+Compiling architecture structural of entity xil_defaultlib.add4_3 [add4_3_default]
+Compiling architecture structural of entity xil_defaultlib.add6_4 [add6_4_default]
+Compiling architecture structural of entity xil_defaultlib.hamming_distance_structural [hamming_distance_structural_defa...]
+Compiling architecture behavioral of entity xil_defaultlib.tb_hamming_distance [tb_hamming_distance_cfg_structur...]
+Built simulation snapshot cfg_structural_behav

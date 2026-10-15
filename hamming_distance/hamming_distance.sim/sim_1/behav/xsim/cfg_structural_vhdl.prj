@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../hamming_distance.srcs/sources_1/new/hamming_distance.vhd" \
+"../../../../hamming_distance.srcs/sources_1/new/hamming_distance_structural.vhd" \
+"../../../../hamming_distance.srcs/sim_1/new/tb_hamming_distance.vhd" \
+
+# Do not sort compile order
+nosort

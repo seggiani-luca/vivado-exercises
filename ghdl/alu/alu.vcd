@@ -1,0 +1,90 @@
+$date
+  Thu Oct 15 18:10:15 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module tb_alu $end
+$var reg 4 ! din0[3:0] $end
+$var reg 4 " din1[3:0] $end
+$var reg 4 # dout[3:0] $end
+$var reg 3 $ ctrl[2:0] $end
+$scope module uut $end
+$var reg 4 % din0[3:0] $end
+$var reg 4 & din1[3:0] $end
+$var reg 4 ' dout[3:0] $end
+$var reg 3 ( ctrl[2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0011 !
+b0001 "
+b0100 #
+b000 $
+b0011 %
+b0001 &
+b0100 '
+b000 (
+#10000000
+b0010 "
+b0101 #
+b100 $
+b0010 &
+b0101 '
+b100 (
+#20000000
+b0101 "
+b1110 #
+b101 $
+b0101 &
+b1110 '
+b101 (
+#30000000
+b1010 !
+b1100 "
+b1000 #
+b110 $
+b1010 %
+b1100 &
+b1000 '
+b110 (
+#40000000
+b1110 #
+b111 $
+b1110 '
+b111 (
+#50000000
+b1101 !
+b0010 "
+b1111 #
+b100 $
+b1101 %
+b0010 &
+b1111 '
+b100 (
+#60000000
+b1110 !
+b0011 "
+b1011 #
+b101 $
+b1110 %
+b0011 &
+b1011 '
+b101 (
+#70000000
+b1111 #
+b011 $
+b1111 '
+b011 (

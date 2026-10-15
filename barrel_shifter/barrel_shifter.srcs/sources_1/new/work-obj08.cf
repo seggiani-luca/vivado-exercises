@@ -1,0 +1,4 @@
+v 4
+file . "barrel_shifter.vhd" "eb21dbabfe6013269b6080ae01a090a4f6650bc2" "20261015135949.563":
+  entity barrel_shifter at 1( 0) + 0 on 17;
+  architecture dataflow of barrel_shifter at 13( 310) + 0 on 18;

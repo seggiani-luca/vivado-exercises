@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "gray_code_inc_behav" "xil_defaultlib.gray_code_inc" -log "elaborate.log" 
