@@ -1,0 +1,10 @@
+v 4
+file . "tst/tb_majority_vote_alu.vhd" "6b4c6be4e85eea5c3cbd26dd3caa7100b58bba87" "20261022135546.846":
+  entity tb_majority_vote_alu at 1( 0) + 0 on 127;
+  architecture behavioral of tb_majority_vote_alu at 7( 102) + 0 on 128;
+file . "src/alu.vhd" "b5a67a523267a333fc9cfcb43b2cb9c5db39b561" "20261022135546.835":
+  entity alu at 1( 0) + 0 on 123;
+  architecture dataflow of alu at 26( 596) + 0 on 124;
+file . "src/majority_vote_alu.vhd" "28b4c567ca89aae7204cab06170f0a043883ff9c" "20261022135546.842":
+  entity majority_vote_alu at 1( 0) + 0 on 125;
+  architecture hierarchical of majority_vote_alu at 21( 616) + 0 on 126;

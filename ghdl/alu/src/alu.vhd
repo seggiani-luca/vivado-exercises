@@ -2,6 +2,15 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
+-- a variable width ALU allowing for the following operations:
+-- ctrl | result
+-- -----+-------------------
+-- 0XX  | dout = din0 + 1
+-- 100  | dout = din0 + din1
+-- 101  | dout = din0 - din1
+-- 110  | dout = din0 & din1
+-- 111  | dout = din0 | din1
+
 entity alu is
 	generic (
         WIDTH : positive := 8

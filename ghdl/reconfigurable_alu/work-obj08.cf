@@ -1,0 +1,10 @@
+v 4
+file . "tst/tb_reconfigurable_alu.vhd" "7e085e65620a3f3668896e11fa15638ed8eb60b6" "20261022154239.685":
+  entity tb_reconfigurable_alu at 1( 0) + 0 on 193;
+  architecture behavioral of tb_reconfigurable_alu at 7( 89) + 0 on 194;
+file . "src/alu.vhd" "2d8632c55de21ba1a2d62e696f3361db467f24f5" "20261022154239.661":
+  entity alu at 1( 0) + 0 on 189;
+  architecture dataflow of alu at 29( 671) + 0 on 190;
+file . "src/reconfigurable_alu.vhd" "3cea38c5e2cb90f3c7f595a5874af586a2fcaf52" "20261022154239.673":
+  entity reconfigurable_alu at 1( 0) + 0 on 191;
+  architecture hierarchical of reconfigurable_alu at 15( 362) + 0 on 192;

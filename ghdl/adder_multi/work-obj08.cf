@@ -1,0 +1,11 @@
+v 4
+file . "src/multi_smart.vhd" "815629620db9cd21c70de2693ca8ce0804ac00df" "20261022162945.010":
+  entity multi_smart at 1( 0) + 0 on 66;
+  architecture dataflow of multi_smart at 13( 241) + 0 on 67;
+file . "src/multi_dumb.vhd" "b982344d3512c8c21ff79f21eb2c20277f20e6c1" "20261022162944.997":
+  entity multi_dumb at 1( 0) + 0 on 64;
+  architecture dataflow of multi_dumb at 13( 239) + 0 on 65;
+file . "tst/tb_multi.vhd" "58bbfaefd62d9f9d775c23d7ca0d705a1650d744" "20261022162945.020":
+  entity tb_multi at 1( 0) + 0 on 68;
+  architecture behavioral of tb_multi at 7( 78) + 0 on 69;
+  configuration cfg_structural at 40( 644) + 0 on 70;
