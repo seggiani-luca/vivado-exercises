@@ -1,0 +1,10 @@
+v 4
+file . "src/fsm_1proc.vhd" "b5f4f1b8540c5279b81eb100fdf7a0c7f21b1eb1" "20261027234141.498":
+  entity fsm_1proc at 1( 0) + 0 on 167;
+  architecture behav of fsm_1proc at 13( 207) + 0 on 168;
+file . "src/fsm_2proc.vhd" "069eebe4ae53f2812e89f2163b7e98bad247c834" "20261027234141.492":
+  entity fsm_2proc at 1( 0) + 0 on 165;
+  architecture behav of fsm_2proc at 13( 183) + 0 on 166;
+file . "tst/tb_fsm.vhd" "518175012c4fee9b6ab44b830a737e7809e0f55a" "20261027234141.503":
+  entity tb_fsm at 1( 0) + 0 on 169;
+  architecture behav of tb_fsm at 9( 125) + 0 on 170;

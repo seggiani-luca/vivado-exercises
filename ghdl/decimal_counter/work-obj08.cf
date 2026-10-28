@@ -1,0 +1,9 @@
+v 4
+file . "tst/tb_fsm.vhd" "29176f35714fcb5e537409ac1aa5a6ed08ae8d93" "20261028192313.279":
+  entity tb_decimal_counter at 1( 0) + 0 on 129;
+  architecture behavioral of tb_decimal_counter at 8( 112) + 0 on 130;
+file . "src/fsm.vhd" "35c76463df65623398af8b5693822c11e39feff4" "20261028192313.270":
+  entity decade_counter at 3( 30) + 0 on 125;
+  architecture behavioral of decade_counter at 17( 285) + 0 on 126;
+  entity decimal_counter at 52( 970) + 0 on 127;
+  architecture structural of decimal_counter at 68( 1329) + 0 on 128;

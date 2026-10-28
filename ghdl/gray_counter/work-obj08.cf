@@ -1,0 +1,13 @@
+v 4
+file . "tst/tb_fsm.vhd" "8fff7343fa52812a6fd4a31a02b0ff5e212ebce0" "20261028183215.646":
+  entity tb_gray_counter at 1( 0) + 0 on 77;
+  architecture behavioral of tb_gray_counter at 8( 109) + 0 on 78;
+file . "src/fsm.vhd" "05f37baee4ee8b5fbc2116c0ea16a48f13fe3a4c" "20261028183215.637":
+  entity bin_to_gray at 5( 157) + 0 on 69;
+  architecture dataflow of bin_to_gray at 18( 418) + 0 on 70;
+  entity gray_to_bin at 27( 687) + 0 on 71;
+  architecture dataflow of gray_to_bin at 40( 948) + 0 on 72;
+  entity gray_code_inc at 56( 1390) + 0 on 73;
+  architecture dataflow of gray_code_inc at 70( 1681) + 0 on 74;
+  entity gray_counter at 100( 2356) + 0 on 75;
+  architecture structural of gray_counter at 116( 2645) + 0 on 76;

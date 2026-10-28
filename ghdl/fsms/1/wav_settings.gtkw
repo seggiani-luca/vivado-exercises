@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.128 (w)1999-2026 BSI
+[*] Tue Oct 27 23:33:57 2026
+[*]
+[dumpfile] "/home/luca/Desktop/Projs/vivado/ghdl/fsms/1/fsm.vcd"
+[dumpfile_mtime] "Tue Oct 27 23:33:21 2026"
+[dumpfile_size] 1612
+[savefile] "/home/luca/Desktop/Projs/vivado/ghdl/fsms/1/wav_settings.gtkw"
+[timestart] 0
+[size] 1520 965
+[pos] -1 -1
+*-25.077173 1000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_fsm.
+[sst_width] 213
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 285
+@28
+tb_fsm.clk
+tb_fsm.rst
+tb_fsm.p
+@20000
+-
+@200
+-1 proc
+@28
+tb_fsm.dut1.state_out[1:0]
+tb_fsm.dut1.r
+@20000
+-
+@200
+-2 proc
+@22
+tb_fsm.dut2.state_out[3:0]
+tb_fsm.dut2.next_state_out[3:0]
+@28
+tb_fsm.dut2.r
+@20000
+-
+@29
+tb_fsm.exp_r1
+@28
+tb_fsm.exp_r2
+[pattern_trace] 1
+[pattern_trace] 0
