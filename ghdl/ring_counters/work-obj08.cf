@@ -1,0 +1,21 @@
+v 4
+file . "tst/tb_ring_counter.vhd" "d8a2ba44d174e44ea2ae7caa4096b5ac76e822bd" "20261104174121.239":
+  entity tb_ring_counter at 1( 0) + 0 on 246;
+  architecture behavioral of tb_ring_counter at 7( 83) + 0 on 247;
+file . "src/ring_counter.vhd" "748270b2c61b5f41e9823765b65ac3b88459c064" "20261104174121.209":
+  entity d_flip_flop at 1( 0) + 0 on 233;
+  architecture behavioral of d_flip_flop at 13( 187) + 0 on 234;
+  entity ring_counter at 25( 382) + 0 on 235;
+  architecture behavioral of ring_counter at 40( 649) + 0 on 236;
+  architecture structural of ring_counter at 63( 1110) + 0 on 237;
+file . "src/self_ring_counter.vhd" "72da49298df78cee074927676f96e78f597c966c" "20261104174121.216":
+  entity self_correct_logic at 1( 0) + 0 on 238;
+  architecture behavioral of self_correct_logic at 14( 226) + 0 on 239;
+  entity self_ring_counter at 20( 380) + 0 on 240;
+  architecture behavioral of self_ring_counter at 35( 657) + 0 on 241;
+file . "src/lin_feed_shift_reg.vhd" "2f35b16052b57d377bfbe37c1b6be427fb04980b" "20261104174121.224":
+  entity lin_feed_shift_reg at 1( 0) + 0 on 242;
+  architecture behavioral of lin_feed_shift_reg at 18( 409) + 0 on 243;
+file . "src/bruj_shift_reg.vhd" "12d58582266565b541c7e30d5940efea7fc4527e" "20261104174121.231":
+  entity bruj_shift_reg at 1( 0) + 0 on 244;
+  architecture behavioral of bruj_shift_reg at 18( 401) + 0 on 245;
