@@ -1,0 +1,10 @@
+v 4
+file . "tst/tb_edge.vhd" "801c399163629ce378ff0652aeea82c99002a6c7" "20261109103825.197":
+  entity tb_edge at 1( 0) + 0 on 101;
+  architecture behavioral of tb_edge at 7( 83) + 0 on 102;
+file . "src/edge_moore.vhd" "f65f6ba75958420f5f1084e2bb211aac50855b03" "20261109103825.191":
+  architecture moore of edge at 1( 0) + 0 on 100;
+file . "src/edge.vhd" "c583453dc21e15e5c78b3a6b174570a359187e28" "20261109103825.175":
+  entity edge at 1( 0) + 0 on 98;
+file . "src/edge_mealy.vhd" "0d3796c3eefb62819f7b10ddf5201c5577b2af0d" "20261109103825.185":
+  architecture mealy of edge at 1( 0) + 0 on 99;

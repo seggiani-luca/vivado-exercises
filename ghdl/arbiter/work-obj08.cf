@@ -1,0 +1,10 @@
+v 4
+file . "tst/tb_arbiter.vhd" "a742af13ccc48af51a920ccd77a648d23ccdbbd6" "20261109110734.071":
+  entity tb_arbiter at 1( 0) + 0 on 94;
+  architecture test of tb_arbiter at 7( 78) + 0 on 95;
+file . "src/arbiter_fcfs.vhd" "ee297f511401dedc0e68caf1e646251b5bb4da1f" "20261109110734.059":
+  architecture fcfs of arbiter at 1( 0) + 0 on 92;
+file . "src/arbiter.vhd" "2d722f224b58ca0d35d6ae5d7a161d80e83cbcd0" "20261109110734.053":
+  entity arbiter at 1( 0) + 0 on 91;
+file . "src/arbiter_fixed.vhd" "bdfbd2f41ab879aacec42ae08c4e8f279f00a8a7" "20261109110734.063":
+  architecture fixed of arbiter at 1( 0) + 0 on 93;
