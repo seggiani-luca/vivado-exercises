@@ -1,0 +1,50 @@
+[*]
+[*] GTKWave Analyzer v3.3.128 (w)1999-2026 BSI
+[*] Mon Nov 16 23:03:45 2026
+[*]
+[dumpfile] "/home/luca/Desktop/Projs/vivado/ghdl/pulse/wave.vcd"
+[dumpfile_mtime] "Mon Nov 16 23:03:42 2026"
+[dumpfile_size] 2890
+[savefile] "/home/luca/Desktop/Projs/vivado/ghdl/pulse/settings.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.606358 18200000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_pulse.
+[treeopen] tb_pulse.dut.
+[sst_width] 213
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+tb_pulse.clk
+tb_pulse.rst
+@200
+-
+@28
+tb_pulse.go
+tb_pulse.stop
+@200
+-
+@28
+tb_pulse.pulse
+@200
+-
+-
+@28
+tb_pulse.dut.datapath.max[2:0]
+tb_pulse.dut.datapath.count[2:0]
+@200
+-
+@28
+tb_pulse.dut.controller.down
+tb_pulse.dut.controller.shift
+tb_pulse.dut.controller.load
+tb_pulse.dut.controller.load3
+tb_pulse.dut.controller.pulses
+@200
+-
+@29
+tb_pulse.dut.controller.done
+[pattern_trace] 1
+[pattern_trace] 0

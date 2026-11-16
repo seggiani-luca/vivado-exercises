@@ -1,0 +1,20 @@
+v 4
+file . "tst/tb_pulse.vhd" "4ecf23af61bb6ac00fcb88b9e1617886c2795f11" "20261116230528.698":
+  entity tb_pulse at 1( 0) + 0 on 218;
+  architecture behavioral of tb_pulse at 8( 111) + 0 on 219;
+file . "tst/tb_manchester.vhd" "66dfbc42f71d9cd2d95ed8b667afe7fab762fbde" "20261116215851.788":
+  entity tb_manchester at 1( 0) + 0 on 49;
+  architecture behavioral of tb_manchester at 9( 141) + 0 on 50;
+file . "src/manchester.vhd" "791a7003d8c9281c11ebea431d5afc1e110c9dc4" "20261116215851.782":
+  entity manchester at 1( 0) + 0 on 47;
+  architecture behavioral of manchester at 14( 230) + 0 on 48;
+file . "src/pulse.vhd" "32d9259e99b631691d9e4098b3d436c80f817602" "20261116230528.659":
+  entity pulsegen at 1( 0) + 0 on 211;
+file . "src/pulse_hlsm.vhd" "ac9757f10524903947c075d1586a4e71b8cbaff1" "20261116230528.672":
+  architecture hlsm of pulsegen at 1( 0) + 0 on 212;
+file . "src/pulse_dc.vhd" "efffeac309e3f5591c677619f94a9013f4b0333a" "20261116230528.686":
+  entity pulsegen_datapath at 1( 0) + 0 on 213;
+  architecture behav of pulsegen_datapath at 23( 399) + 0 on 214;
+  entity pulsegen_controller at 73( 1379) + 0 on 215;
+  architecture behav of pulsegen_controller at 95( 1784) + 0 on 216;
+  architecture dc of pulsegen at 156( 2990) + 0 on 217;
