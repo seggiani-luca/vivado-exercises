@@ -1,0 +1,52 @@
+[*]
+[*] GTKWave Analyzer v3.3.128 (w)1999-2026 BSI
+[*] Tue Nov 24 21:05:50 2026
+[*]
+[dumpfile] "/home/luca/Desktop/Projs/vivado/ghdl/seq_multi/wave.vcd"
+[dumpfile_mtime] "Tue Nov 24 21:05:24 2026"
+[dumpfile_size] 5091
+[savefile] "/home/luca/Desktop/Projs/vivado/ghdl/seq_multi/settings.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.714130 126600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_seq_multi.
+[sst_width] 213
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+tb_seq_multi.clk
+tb_seq_multi.rst
+tb_seq_multi.start
+@20000
+-
+@24
+tb_seq_multi.a[7:0]
+tb_seq_multi.b[7:0]
+@20000
+-
+@24
+tb_seq_multi.res[15:0]
+@28
+tb_seq_multi.ready
+@20000
+-
+@24
+tb_seq_multi.dut.cnt[2:0]
+@20000
+-
+@28
+tb_seq_multi.dut.a_load
+tb_seq_multi.dut.b_load
+tb_seq_multi.dut.a_shift
+tb_seq_multi.dut.b_shift
+tb_seq_multi.dut.p_acc
+tb_seq_multi.dut.p_reset
+tb_seq_multi.dut.cnt_init
+@29
+tb_seq_multi.dut.cnt_sub
+@28
+tb_seq_multi.dut.cnt_done
+[pattern_trace] 1
+[pattern_trace] 0

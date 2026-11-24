@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.128 (w)1999-2026 BSI
+[*] Tue Nov 24 18:28:40 2026
+[*]
+[dumpfile] "/home/luca/Desktop/Projs/vivado/ghdl/sqrt_approx/wave.vcd"
+[dumpfile_mtime] "Tue Nov 24 18:28:32 2026"
+[dumpfile_size] 2693
+[savefile] "/home/luca/Desktop/Projs/vivado/ghdl/sqrt_approx/settings.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.111628 38700000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_sqrt_approx.
+[sst_width] 213
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+tb_sqrt_approx.clk
+tb_sqrt_approx.rst
+tb_sqrt_approx.start
+@20000
+-
+@22
+tb_sqrt_approx.a[7:0]
+tb_sqrt_approx.b[7:0]
+@20000
+-
+@28
+tb_sqrt_approx.ready
+@22
+tb_sqrt_approx.res[8:0]
+@20000
+-
+@22
+tb_sqrt_approx.dut.t0[8:0]
+tb_sqrt_approx.dut.t1[8:0]
+tb_sqrt_approx.dut.t2[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
